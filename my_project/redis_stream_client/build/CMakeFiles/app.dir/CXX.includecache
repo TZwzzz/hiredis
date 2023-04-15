@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wilson/hiredis/my_project/redis_stream_client/redis_tool.cpp
+redis_tool.hpp
+/home/wilson/hiredis/my_project/redis_stream_client/redis_tool.hpp
+
+/home/wilson/hiredis/my_project/redis_stream_client/redis_tool.hpp
+hiredis/hiredis.h
+-
+string
+-
+iostream
+-
+sstream
+-
+string.h
+-
+vector
+-
+map
+-
+pthread.h
+-
+

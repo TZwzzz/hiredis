@@ -1,0 +1,3 @@
+/home/wilson/hiredis/my_project/redis_stream_client/build/CMakeFiles/rebuild_cache.dir
+/home/wilson/hiredis/my_project/redis_stream_client/build/CMakeFiles/edit_cache.dir
+/home/wilson/hiredis/my_project/redis_stream_client/build/CMakeFiles/app.dir

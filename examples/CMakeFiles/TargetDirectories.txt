@@ -1,0 +1,5 @@
+/home/wilson/hiredis/examples/CMakeFiles/rebuild_cache.dir
+/home/wilson/hiredis/examples/CMakeFiles/edit_cache.dir
+/home/wilson/hiredis/examples/CMakeFiles/example-push.dir
+/home/wilson/hiredis/examples/CMakeFiles/example.dir
+/home/wilson/hiredis/examples/CMakeFiles/example-glib.dir
