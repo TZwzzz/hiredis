@@ -1,1 +1,0 @@
-/usr/bin/cc   -rdynamic CMakeFiles/example-glib.dir/example-glib.o  -o example-glib  -lhiredis -lglib-2.0 
